@@ -4,10 +4,9 @@ Estudante de Análise e Desenvolvimento de Sistemas, Técnico em informática pa
 
 Iniciei minha carreira na área de TI bem cedo, perfazendo atualmente 8 anos de atuação, iniciei como auxiliar de ensino de cursos técnicos, passei a instrutor de cursos de desenvolvimento de software e atualmente trabalho em conjunto com equipes de produtos de machine learning, criando o cenários e efetuando testes, validações e colhendo métricas de modelos.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 Neste meu perfil do GitHub você encontrará alguns repositórios com conteúdo que gosto de estudar, afim de ampliar meus conhecimentos e me tornar um profissional mais qualificado.
 
-[! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = repositorio-gil-rocha )] (https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **repositorio-gil-rocha/repositorio-gil-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
