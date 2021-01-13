@@ -2,6 +2,9 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, Técnico em informática para internet e cientista de dados Jr - Q&A
 
+Iniciei minha carreira na área de TI bem cedo, perfazendo atualmente 8 anos de atuação, iniciei como auxiliar de ensino de cursos técnicos, passei a instrutor de cursos de desenvolvimento de software e atualmente trabalho em conjunto com equipes de produtos de machine learning, criando o cenários e efetuando testes, validações e colhendo métricas de modelos.
+
+
 
 <!--
 **repositorio-gil-rocha/repositorio-gil-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
