@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Estudante de Análise e Desenvolvimento de Sistemas, Técnico em informática para internet e cientista de dados Jr - Q&A
+
+
 <!--
 **repositorio-gil-rocha/repositorio-gil-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
