@@ -6,7 +6,12 @@ Iniciei minha carreira na área de TI bem cedo, perfazendo atualmente 8 anos de 
 
 Neste meu perfil do GitHub você encontrará alguns repositórios com conteúdo que gosto de estudar, afim de ampliar meus conhecimentos e me tornar um profissional mais qualificado.
 
+<!--
 ![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radicaltitle_color=000&fflocale=pt-br&card_width=500)
+-->
+[! [willianrod's wakatime stats] (https://github-readme-stats.vercel.app/api/wakatime ? username = repositorio-gil-rocha )] (https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **repositorio-gil-rocha/repositorio-gil-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
