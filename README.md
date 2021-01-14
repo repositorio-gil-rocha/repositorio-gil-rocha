@@ -10,7 +10,7 @@ Neste meu perfil do GitHub você encontrará alguns repositórios com conteúdo 
 ![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radicaltitle_color=000&fflocale=pt-br&card_width=500)
 -->
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? repositorio-gil-rocha = anuraghazra & layout = compact )]
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = repositorio-gil-rocha = compact )]
 
 <!--
 **repositorio-gil-rocha/repositorio-gil-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
