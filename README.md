@@ -6,7 +6,7 @@ Iniciei minha carreira na área de TI bem cedo, perfazendo atualmente 8 anos de 
 
 Neste meu perfil do GitHub você encontrará alguns repositórios com conteúdo que gosto de estudar, afim de ampliar meus conhecimentos e me tornar um profissional mais qualificado.
 
-[! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
+[! [Estatísticas do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = repositorio-gil-rocha )] (https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
