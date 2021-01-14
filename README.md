@@ -9,7 +9,6 @@ Neste meu perfil do GitHub você encontrará alguns repositórios com conteúdo 
 <!--
 ![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radicaltitle_color=000&fflocale=pt-br&card_width=500)
 -->
-[! [willianrod's wakatime stats] (https://github-readme-stats.vercel.app/api/wakatime ? username = repositorio-gil-rocha )] (https://github.com/anuraghazra/github-readme-stats)
 
 
 
