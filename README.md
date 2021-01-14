@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, Técnico em informática pa
 
 Iniciei minha carreira na área de TI bem cedo, perfazendo atualmente 8 anos de atuação, iniciei como auxiliar de ensino de cursos técnicos, passei a instrutor de cursos de desenvolvimento de software e atualmente trabalho em conjunto com equipes de produtos de machine learning, criando os cenários e efetuando testes, validações e colhendo métricas de modelos.
 
-![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=repositorio-gil-rocha&show_icons=true&theme=radicaltitle_color=000&fflocale=pt-br&card_width=500)
+![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=repositorio-gil-rocha&show_icons=false&theme=radicaltitle_color=000&fflocale=pt-br&card_width=500)
 
 <!--
 **repositorio-gil-rocha/repositorio-gil-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
