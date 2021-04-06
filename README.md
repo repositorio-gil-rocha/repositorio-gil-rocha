@@ -1,6 +1,6 @@
 ### Bem Vindo ao Meu Perfil do GitHub 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas, Técnico em informática para internet e cientista de dados Jr - Q&A
+Estudante de Análise e Desenvolvimento de Sistemas, Técnico em informática para internet e cientista de dados Jr
 
 Iniciei minha carreira na área de TI bem cedo, perfazendo atualmente 8 anos de atuação, iniciei como auxiliar de ensino de cursos técnicos, passei a instrutor de cursos de desenvolvimento de software e atualmente trabalho em conjunto com equipes de produtos de machine learning, criando os cenários e efetuando testes, validações e colhendo métricas de modelos.
  <!--
