@@ -1,8 +1,15 @@
 ### Bem Vindo ao Meu Perfil do GitHub 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas, Técnico em informática para internet e cientista de dados Jr
 
-Iniciei minha carreira na área de TI bem cedo, perfazendo atualmente 8 anos de atuação, iniciei como auxiliar de ensino de cursos técnicos, passei a instrutor de cursos de desenvolvimento de software e atualmente trabalho em conjunto com equipes de produtos de machine learning, criando os cenários e efetuando testes, validações e colhendo métricas de modelos.
+Estudante de análise e desenvolvimento de sistemas, técnico em informática para internet pelo Senac, instrutor de tecnologia e cientista de dados
+
+Iniciei minha carreira na área de TI bem cedo, perfazendo atualmente 10 anos de atuação, iniciei como auxiliar de ensino de cursos tecnologia, passei a instrutor e em seguida trabalhei em conjunto com equipes de produtos de machine learning, criando os cenários e efetuando testes, validações e colhendo métricas de modelos, já trabalhei também como consultor de Business Intelligence realizando análises e desenvolvendo dashboards com a ferramenta PowerBI e agora sou cientista de dados na Globo.
+
+Grande habilidade em entender processos de negócios e associar com os pontos de qualidade necessários na evolução de produtos de data science, inteligência artificial e Business Intelligence, além de facilidade em apresentar o resultado dos estudos junto aos mais diferentes públicos.
+
+Adaptado às melhores práticas de gestão ágeis, assim como perfil flexível para desempenho de diferentes atividades dentro de times técnicos.
+
+
  <!--
 ![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=repositorio-gil-rocha&show_icons=true&theme=radicaltitle_color=000&fflocale=pt-br&card_width=500)
 -->
